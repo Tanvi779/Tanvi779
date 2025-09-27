@@ -1,5 +1,5 @@
 
-Hi there! 👋
+Hi! 👋
 
 * 🎨 I’m all about **design-driven front-end magic** — from sleek websites to interactive apps and even the occasional game UI.
 * 🙋🏻‍♀️ Freelance designer and front-end developer by day, professional coffee drinker by necessity.
